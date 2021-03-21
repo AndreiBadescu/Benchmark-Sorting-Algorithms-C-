@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615763972 source:c:\users\andrei\desktop\proiect mpi\countingsort\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<cstring>
+
+1615730833 c:\users\andrei\desktop\proiect mpi\utilities.h
+
+1615751755 source:c:\users\andrei\desktop\proiect mpi\utilities.cpp
+	"utilities.h"
+	<fstream>
+
