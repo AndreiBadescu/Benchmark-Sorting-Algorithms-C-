@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1615730693 source:c:\users\andrei\onedrive - e-uvt.ro\desktop\proiect mpi\utilities.cpp
+	"utilities.h"
+	<fstream>
+
+1615730833 c:\users\andrei\onedrive - e-uvt.ro\desktop\proiect mpi\utilities.h
+
+1615731321 source:c:\users\andrei\onedrive - e-uvt.ro\desktop\proiect mpi\mergesort\main.cpp
+	"../utilities.h"
+
+1615762634 source:c:\users\andrei\desktop\proiect mpi\utilities.cpp
+	"utilities.h"
+	<fstream>
+
+1615730833 c:\users\andrei\desktop\proiect mpi\utilities.h
+
+1615759654 source:c:\users\andrei\desktop\proiect mpi\mergesort\main.cpp
+	"../utilities.h"
+	<iostream>
+	<chrono>
+
