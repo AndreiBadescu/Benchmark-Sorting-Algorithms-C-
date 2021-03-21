@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615763836 source:c:\users\andrei\desktop\proiect mpi\bubblesort\main.cpp
+	"../utilities.h"
+	<iostream>
+	<chrono>
+
+1615730833 c:\users\andrei\desktop\proiect mpi\utilities.h
+
+1615762634 source:c:\users\andrei\desktop\proiect mpi\utilities.cpp
+	"utilities.h"
+	<fstream>
+
